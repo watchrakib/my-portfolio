@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
-<rect width="800" height="500" rx="36" fill="#0b0d10"/>
-<circle cx="650" cy="90" r="150" fill="#a5ff38" opacity=".08"/>
-<circle cx="130" cy="430" r="170" fill="#a5ff38" opacity=".05"/>
-<rect x="48" y="48" width="704" height="404" rx="28" fill="none" stroke="#fff" stroke-opacity=".1"/>
-<text x="78" y="112" font-family="Arial,sans-serif" font-size="24" letter-spacing="4" fill="#a5ff38">MD RAKIBUL ISLAM</text>
-<text x="400" y="280" text-anchor="middle" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#f5f7fa">⌁</text>
-<text x="400" y="355" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#f5f7fa">NETWORKING</text>
-<text x="400" y="395" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#858b96">AI • NETWORKING • CREATIVE TECHNOLOGY</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="10" y="10" width="44" height="44" rx="10" fill="none" stroke="currentColor" stroke-width="3"/><path d="M18 32h28M32 18v28" stroke="currentColor" stroke-width="3"/><text x="32" y="38" text-anchor="middle" font-family="Arial" font-size="12" fill="currentColor">AI</text></svg>
